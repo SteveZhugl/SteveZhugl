@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fz243
+- 👋 Hi, I’m @gz243
 - 👀 I’m interested in Machine Learning and software development
 - 🌱 I’m currently learning Electrical and Computer Engineering at Cornell
 - 💞️ I’m looking to collaborate on Machine Learning
