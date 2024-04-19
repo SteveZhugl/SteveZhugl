@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guanlin Zhu
-- 👀 I’m interested in Machine Learning and software development
+- 👀 I’m interested in Machine Learning and Computer System
 - 🌱 I’m currently learning Electrical and Computer Engineering at Cornell
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me gz243@cornell.edu
